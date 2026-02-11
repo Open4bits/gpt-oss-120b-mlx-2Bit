@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/openai/gpt-oss/main/docs/gpt-oss-120b.svg" alt="Alt text for the image"/>
 </p>
+
 ## Model Hosting
 
 This repository does not contain the model weight files.
